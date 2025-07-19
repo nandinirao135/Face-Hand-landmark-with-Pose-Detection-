@@ -1,2 +1,2 @@
-# Face &amp;Hand landmark with pose Detection
+# MiniProject
 Face &amp;Hand landmark with pose Detection
